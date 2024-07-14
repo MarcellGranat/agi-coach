@@ -1,0 +1,19 @@
+# Személyi edzés Budapesten
+
+::: grid
+::: g-col-8
+Szia, az én nevem Ági 👋, és üdvözöllek az egészséges életmód és a fitnesz 💪 világában!
+
+Legyen szó fogyásról, izomépítésről vagy általános egészségmegőrzésről , együtt megtaláljuk a személyre szabott megoldásokat és a motivációt 🏃‍♂️, amire szükséged van.
+
+Hiszek abban, hogy a mozgás örömet kell 🙌, hogy okozzon, és hogy mindenki megtalálhatja azt a sportot, ami igazán passzol hozzá. Közös munkánk során nem csak a fizikai teljesítőképességedet fejlesztjük, hanem az önbizalmadat is növeljük.
+
+Csatlakozz hozzám, és kezdjük el együtt az utat egy fittebb, egészségesebb és boldogabb élet felé. Itt az idő, hogy te is megtapasztald, milyen érzés, amikor elérsz valami olyat, amiről korábban álmodni sem mertél. Vágjunk bele, és hozzuk ki belőled a legjobbat!
+
+Az időpont foglalást nálam akár [**online is intézheted**](dates.qmd), így könnyedén megtalálhatod az edzésre alkalmas időpontot a hetedben, mert ugye nem érdemes halogatni. 😉
+:::
+
+::: g-col-4
+![](logo.png)
+:::
+:::

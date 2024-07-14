@@ -1,0 +1,26 @@
+---
+title: "Rólam"
+image: logo.png
+about:
+  image-shape: rounded
+  template: solana
+  links:
+      - icon: calendar
+        href: https://calendly.com/granatne/60min
+      - icon: chat
+        href: "mailto:granatne@gmail.com"
+      - icon: telephone
+        href: "tel:+36303845143"
+---
+
+## Tapasztalat {{< fa briefcase >}}
+
+Többévtizedes rendszeres vezetett tornán való részvétel, 5 éve tartó súlyzós edzés konditeremben.
+
+Középső fiam professzionális tollaslabdázó, akinek a személyes fizikai edzéseit szintén én koordinálom.
+
+## Végzettség {{< fa graduation-cap >}}
+
+**Fitness Akadémia**
+
+Személyi edző \| 2023-2024
